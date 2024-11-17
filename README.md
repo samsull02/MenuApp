@@ -31,4 +31,4 @@ ___
 -   **App Name**: MenuAppMakanan
 -   **Package Name**:  `com.samuel.menu`
 
-
+https://github.com/samsull02/MenuApp/blob/main/Android%20Compact%20-%202.png
