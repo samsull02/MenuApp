@@ -28,5 +28,5 @@ With the advent of **MenuAppMakanan**, it is hoped that users can save time, mak
 ___
 ### Application Name and Package
 
--   **App Name**: 'com.samuel.menu'
+-   **App Name**: com.samuel.menu'
 
