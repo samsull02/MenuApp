@@ -1,10 +1,6 @@
 # Samuel-app
 **MenuAppMakanan** is an app designed to help users plan, search, and choose the right food menu according to their needs and tastes. With various features such as menu choices, prices, and nutritional information. This application makes it easy for you to make attractive, practical, and delicious food choices every day. **MenuAppMakanan** makes the experience of choosing food easier, faster, and more enjoyable!
 
-# Table of content
-
-**BELOM**
-
 ### introduction
 
 **MenuAppMakanan** is a mobile application developed to make it easier to manage and select food menus. This application is designed with the aim of assisting users in finding a variety of food options that suit their preferences and needs, be it for cooking at home or choosing the right restaurant. The app allows users to explore a variety of foods according to prices and tastes.
