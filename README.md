@@ -31,4 +31,9 @@ ___
 -   **App Name**: MenuAppMakanan
 -   **Package Name**:  `com.samuel.menu`
 
-https://github.com/samsull02/MenuApp/blob/main/Android%20Compact%20-%202.png
+### App Flow
+
+Key interface elements include:
+
+1. **Home Screen**:  
+   ![Home Screen](https://github.com/samsull02/MenuApp/blob/main/Android%20Compact%20-%201%20(1).png)
