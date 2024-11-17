@@ -26,6 +26,7 @@ With the advent of **MenuAppMakanan**, it is hoped that users can save time, mak
 
 
 ___
+
 ### App Flow
 
 Key interface elements include:
@@ -36,7 +37,7 @@ Key interface elements include:
 
 2. **Onboarding Screens**:  
    Brief tutorial on app features  
-   ![Onboarding Screen 1](https://github.com/samsull02/MenuApp/blob/main/Android%20Compact%20-%202.pnghttps://github.com/samsull02/MenuApp/blob/main/Android%20Compact%20-%202.png)
+   ![Onboarding Screen ](https://github.com/samsull02/MenuApp/blob/main/Android%20Compact%20-%202.png)
 
 3. **Login/Sign-Up Screen**:  
    Options to log in via email, Google, or Facebook  
@@ -56,4 +57,4 @@ Key interface elements include:
 
 7. **Transaction History**:  
    Displays donation and reception history with status  
-   | ![Transaction History 1](https://github.com/samsull02/MenuApp/blob/main/Android%20Compact%20-%206.png)
+   | ![Transaction History 1](https://github.com/samsull02/MenuApp/blob/main/Android%20Compact%20-%206.png) 
