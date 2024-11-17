@@ -26,14 +26,34 @@ With the advent of **MenuAppMakanan**, it is hoped that users can save time, mak
 
 
 ___
-### Application Name and Package
-
--   **App Name**: MenuAppMakanan
--   **Package Name**:  `com.samuel.menu`
-
 ### App Flow
 
 Key interface elements include:
 
-1. **Home Screen**:  
+1. **Splash Screen**:  
+   
    ![Home Screen](https://github.com/samsull02/MenuApp/blob/main/Android%20Compact%20-%201%20(1).png)
+
+2. **Onboarding Screens**:  
+   Brief tutorial on app features  
+   ![Onboarding Screen 1](https://github.com/samsull02/MenuApp/blob/main/Android%20Compact%20-%202.pnghttps://github.com/samsull02/MenuApp/blob/main/Android%20Compact%20-%202.png)
+
+3. **Login/Sign-Up Screen**:  
+   Options to log in via email, Google, or Facebook  
+   | ![Login Screen 1](https://github.com/samsull02/MenuApp/blob/main/Android%20Compact%20-%207.png) 
+
+4. **Home Screen**:  
+   Displays urgent needs or donation offers by location or urgency  
+   | ![Home Screen 1](https://github.com/samsull02/MenuApp/blob/main/Android%20Compact%20-%203.png)
+
+5. **Donation Screen**:  
+   Form for type, quantity, and condition of items, along with location input  
+   ![Donation Screen](https://github.com/samsull02/MenuApp/blob/main/Android%20Compact%20-%204%20(1).png)
+
+6. **Recipient Screen**:  
+   Form for needs requests, including type, quantity, and location  
+   ![Recipient Screen](https://github.com/samsull02/MenuApp/blob/main/Android%20Compact%20-%205.png)
+
+7. **Transaction History**:  
+   Displays donation and reception history with status  
+   | ![Transaction History 1](https://github.com/samsull02/MenuApp/blob/main/Android%20Compact%20-%206.png)
