@@ -32,29 +32,29 @@ ___
 Key interface elements include:
 
 1. **Home Screen**:  
-   
+   Displays the menu logo, which can lead to the menu selection screen.
    ![Home Screen](https://github.com/samsull02/MenuApp/blob/main/Android%20Compact%20-%201%20(1).png)
 
 2. **Food Selection Menu Screen**:  
-   Brief tutorial on app features  
+   Select several food menus, and we can search for the menu we want.
    ![Onboarding Screen ](https://github.com/samsull02/MenuApp/blob/main/Android%20Compact%20-%202.png)
 
 3. **Keyboard Screen**:  
-   Options to log in via email, Google, or Facebook  
+   The screen display when searching for a menu will bring up a keyboard which makes it easier to find the name of the food menu. 
    | ![Login Screen 1](https://github.com/samsull02/MenuApp/blob/main/Android%20Compact%20-%207.png) 
 
 4. **First Food Menu Screen**:  
-   Displays urgent needs or donation offers by location or urgency  
+  Displays the first menu choice, with various toppings.  
    | ![Home Screen 1](https://github.com/samsull02/MenuApp/blob/main/Android%20Compact%20-%203.png)
 
 5. **Second Food Menu Screen**:  
-   Form for type, quantity, and condition of items, along with location input  
+   Displays the second menu option, with various toppings.
    ![Donation Screen](https://github.com/samsull02/MenuApp/blob/main/Android%20Compact%20-%204%20(1).png)
 
 6. **Third Food Menu Screen**:  
-   Form for needs requests, including type, quantity, and location  
+   Displays the third menu option, with various toppings.
    ![Recipient Screen](https://github.com/samsull02/MenuApp/blob/main/Android%20Compact%20-%205.png)
 
 7. **Fourth Food Menu Screen**:  
-   Displays donation and reception history with status  
+   Displays the fourth menu option, with various toppings.
    | ![Transaction History 1](https://github.com/samsull02/MenuApp/blob/main/Android%20Compact%20-%206.png) 
