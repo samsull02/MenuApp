@@ -41,11 +41,11 @@ Key interface elements include:
 
 3. **Keyboard Screen**:  
    The screen display when searching for a menu will bring up a keyboard which makes it easier to find the name of the food menu. 
-   | ![Login Screen 1](https://github.com/samsull02/MenuApp/blob/main/Android%20Compact%20-%207.png) 
+    ![Login Screen 1](https://github.com/samsull02/MenuApp/blob/main/Android%20Compact%20-%207.png) 
 
 4. **First Food Menu Screen**:  
   Displays the first menu choice, with various toppings.  
-   | ![Home Screen 1](https://github.com/samsull02/MenuApp/blob/main/Android%20Compact%20-%203.png)
+    ![Home Screen 1](https://github.com/samsull02/MenuApp/blob/main/Android%20Compact%20-%203.png)
 
 5. **Second Food Menu Screen**:  
    Displays the second menu option, with various toppings.
@@ -57,4 +57,4 @@ Key interface elements include:
 
 7. **Fourth Food Menu Screen**:  
    Displays the fourth menu option, with various toppings.
-   | ![Transaction History 1](https://github.com/samsull02/MenuApp/blob/main/Android%20Compact%20-%206.png) 
+    ![Transaction History 1](https://github.com/samsull02/MenuApp/blob/main/Android%20Compact%20-%206.png) 
