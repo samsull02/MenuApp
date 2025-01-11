@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">menu</string>
+    <string name="app_name">MENU</string>
+    <string name="sam_jihan">HOME</string>
+    <string name="jihan">back</string>
+    <string name="cari_makanan_favorit_mu">Cari makanan favorit mu...</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="risol_mayo">RISOL MAYO</string>
+    <string name="rp_2_500">Rp.2,500;</string>
+    <string name="risol_sayur">RISOL SAYUR</string>
+    <string name="rp_3_000">Rp.3,000;</string>
+    <string name="risol_ayam">RISOL AYAM</string>
+    <string name="risol_sosis">RISOL SOSIS</string>
+    <string name="todo">TODO</string>
 </resources>

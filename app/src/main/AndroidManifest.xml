@@ -25,6 +25,12 @@
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
+        <activity android:name=".Tampilan_menu" />
+        <activity android:name=".Risol_Mayo" />
+        <activity android:name=".Risol_SayurActivity" />
+        <activity android:name=".Risol_AyamActivity" />
+        <activity android:name=".Risol_SosisActivity" />
+
     </application>
 
 </manifest>
